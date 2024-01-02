@@ -23,6 +23,6 @@ Books:
 Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-20/blob/main/htr-united.yml) file.
 
 ## Licences
-Annotation is CC-BY. Images belong to the digital libraries, the text is under copyright.
+Annotation is CC-BY. Images belong to the publishers, the text is under copyright.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
