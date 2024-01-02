@@ -1,4 +1,4 @@
-# FONDUE-EN-PRINT-20
+# FONDUE-FR-PRINT-20
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
