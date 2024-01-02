@@ -16,88 +16,93 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - t
-  - o
-  - n
   - a
-  - i
-  - r
   - s
-  - h
-  - d
-  - l
-  - c
+  - i
+  - t
+  - r
+  - n
   - u
-  - m
-  - f
-  - g
+  - l
+  - o
+  - d
+  - c
   - p
-  - ','
-  - y
-  - w
-  - b
-  - v
-  - .
-  - k
-  - '1'
-  - I
-  - ¬
-  - C
-  - S
-  - T
-  - '-'
-  - '9'
-  - A
-  - ;
-  - '8'
-  - M
-  - x
-  - '4'
-  - '2'
-  - /
-  - '6'
-  - N
-  - G
-  - R
-  - D
-  - q
-  - '0'
-  - '"'
-  - H
-  - E
-  - '5'
-  - z
-  - P
-  - W
-  - U
-  - '7'
-  - (
-  - j
-  - )
-  - '3'
-  - B
-  - "'"
-  - ’
-  - L
-  - ':'
-  - Y
-  - O
-  - V
-  - Q
-  - –
-  - '?'
-  - F
-  - J
-  - '!'
-  - K
-  - “
-  - '['
-  - ']'
-  - X
-  - Z
+  - m
   - ́
-  - ”
+  - ','
+  - .
+  - v
+  - ’
+  - g
+  - f
+  - b
+  - q
+  - h
+  - ̀
+  - ̂
+  - x
+  - j
+  - L
+  - y
+  - '-'
+  - I
+  - "'"
   - —
+  - A
+  - G
+  - E
+  - M
+  - P
+  - C
+  - B
+  - J
+  - D
+  - z
+  - ̧
+  - S
+  - '!'
+  - T
+  - '?'
+  - ¬
+  - V
+  - ;
+  - U
+  - O
+  - R
+  - Q
+  - ':'
+  - '1'
+  - k
+  - F
+  - H
+  - œ
+  - '0'
+  - (
+  - )
+  - “
+  - '2'
+  - N
+  - '6'
+  - '9'
+  - '8'
+  - '5'
+  - ̈
+  - '3'
+  - w
+  - W
+  - '4'
+  - Y
+  - ”
+  -  
+  - '7'
+  - Z
+  - '*'
+  - /
+  - K
+  - '"'
+  - «
+  - »
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-20/blob/master/CITATION.cff
 description: French novels
@@ -125,11 +130,11 @@ title: FONDUE-FR-PRINT-20
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-20
 volume:
-- count: 82834
+- count: 81599
   metric: characters
-- count: 30
+- count: 55
   metric: files
-- count: 1728
+- count: 1604
   metric: lines
-- count: 72
+- count: 64
   metric: regions
