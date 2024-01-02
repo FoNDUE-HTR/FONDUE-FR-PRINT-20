@@ -8,9 +8,14 @@ This repo contains the transcription of 20th c. French prints.
 
 Books:
 
-| Author /editor    | Title                                                          | Pages    | Date | Transcription          |
-|-------------------|----------------------------------------------------------------|----------|------|------------------------|
-| Bram Stoker       | _Dracula_                                                      | 5 pages  | XXXX | S. Dolto               |
+| Author /editor         | Title                                                          | Date | Publisher | Transcription          |
+|------------------------|----------------------------------------------------------------|------|-----------|------------------------|
+| Jean-Pierre Bastid     | _Méchoui-Massacre_                                             | 1974 | Gallimard | S. Dolto               |
+| Jean-Patrick Manchette | _L’Affaire N’Gustro_                                           | 1971 | Gallimard | S. Dolto               |
+| Jean-Pierre Bastid     | _Parcours fleché_                                              | 1994 | Gallimard | S. Dolto               |
+| Jean-Pierre Bastid     | _La Tendresse du loup_                                         | 1997 | Actes Sud | S. Dolto               |
+| Jean-Pierre Bastid et Jean-Patrick Manchette | _Laissez Bronzer les cadavres_           | 1971 | Gallimard | S. Dolto               |
+| Jean-Patrick Manchette | _Le Petit bleu de la côte ouest_                               | 1976 | Gallimard | S. Dolto               |
 
 
 
