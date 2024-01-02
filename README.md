@@ -10,12 +10,12 @@ Books:
 
 | Author /editor         | Title                                                          | Date | Publisher | Pages    | Transcription |
 |------------------------|----------------------------------------------------------------|------|-----------|----------|---------------|
-| Jean-Pierre Bastid     | _Méchoui-Massacre_                                             | 1974 | Gallimard | 12 pages | S. Dolto      |
+| Jean-Pierre Bastid     | _Méchoui-massacre_                                             | 1974 | Gallimard | 12 pages | S. Dolto      |
 | Jean-Patrick Manchette | _L’Affaire N’Gustro_                                           | 1971 | Gallimard | 7 pages  | S. Dolto      |
-| Jean-Pierre Bastid     | _Parcours fleché_                                              | 1994 | Gallimard | 10 pages | S. Dolto      |
+| Jean-Pierre Bastid     | _Parcours fléché_                                              | 1994 | Gallimard | 10 pages | S. Dolto      |
 | Jean-Pierre Bastid     | _La Tendresse du loup_                                         | 1997 | Actes Sud | 6 pages  | S. Dolto      |
-| Jean-Pierre Bastid et Jean-Patrick Manchette | _Laissez Bronzer les cadavres_           | 1971 | Gallimard | 5 pages  | S. Dolto      |
-| Jean-Patrick Manchette | _Le Petit bleu de la côte ouest_                               | 1976 | Gallimard | 15 pages | S. Dolto      |
+| Jean-Pierre Bastid et Jean-Patrick Manchette | _Laissez bronzer les cadavres!_          | 1971 | Gallimard | 5 pages  | S. Dolto      |
+| Jean-Patrick Manchette | _Le Petit Bleu de la côte ouest_                               | 1976 | Gallimard | 15 pages | S. Dolto      |
 
 
 ## How to cite
